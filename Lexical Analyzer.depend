@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512264890 source:d:\matkul\semester 3\teori bahasa dan automata\new folder\lexical analyzer\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1510729265 source:d:\matkul\semester 3\teori bahasa dan automata\new folder\lexical analyzer\pungsy.cpp
+	"Pungsy.h"
+
+1510729265 d:\matkul\semester 3\teori bahasa dan automata\new folder\lexical analyzer\pungsy.h
+
